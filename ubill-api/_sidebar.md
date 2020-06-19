@@ -4,3 +4,4 @@
 - [索引](api/ubill-api/index.md)
 - **API**
     - [生成账单数据文件下载的 url - GetBillDataFileUrl](api/ubill-api/get_bill_data_file_url)
+    - [GetBalance - 获取账户余额](api/ubill-api/get_balance)
